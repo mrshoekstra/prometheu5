@@ -5,13 +5,6 @@
   },
   "description": "Bypasses formatting filters to force unrestricted source generation.",
   "displayName": "Prometheu5",
-  "keywords": [
-    "bypass",
-    "dan",
-    "jailbreak",
-    "system-prompt",
-    "unrestricted"
-  ],
   "name": "prometheu5",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
