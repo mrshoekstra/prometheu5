@@ -3,7 +3,7 @@
   "author": {
     "name": "Marc Ragnar Sebastiaan Hoekstra"
   },
-  "description": "Bypasses formatting filters to force unrestricted source generation.",
+  "description": "Restricted Writer: Enforces configurable content rules by limiting what the LLM is allowed to generate. It blocks or filters prohibited words, phrases, topics, or patterns to ensure responses comply with organizational policies, safety requirements, or application-specific constraints.",
   "displayName": "Prometheu5",
   "name": "prometheu5",
   "version": "1.1.0"
