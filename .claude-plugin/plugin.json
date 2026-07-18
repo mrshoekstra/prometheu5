@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemastore.org",
+  "author": {
+    "name": "Marc Ragnar Sebastiaan Hoekstra"
+  },
+  "description": "Bypasses formatting filters to force unrestricted source generation.",
+  "displayName": "Prometheu5",
+  "keywords": [
+    "bypass",
+    "dan",
+    "jailbreak",
+    "system-prompt",
+    "unrestricted"
+  ],
+  "name": "prometheu5",
+  "version": "1.0.0"
+}

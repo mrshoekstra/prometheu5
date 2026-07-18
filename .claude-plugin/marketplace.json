@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "description": "Marketplace for the Prometheu5 plugin",
+    "version": "1.0.0"
+  },
+  "name": "prometheu5",
+  "owner": {
+    "name": "Marc Ragnar Sebastiaan Hoekstra"
+  },
+  "plugins": [
+    {
+      "description": "Bypasses formatting filters to force unrestricted source generation.",
+      "name": "prometheu5",
+      "source": "./"
+    }
+  ]
+}
